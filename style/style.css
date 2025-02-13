@@ -80,7 +80,7 @@ body {
   right: 5px;
   bottom: 5px;
   color: #fff;
-  background-color: rgb(21, 161, 237);
+  background-color: rgb(237, 21, 212); /* Cute Pink */
   padding: 5px 8px;
   border-radius: 3px;
 }
@@ -106,6 +106,9 @@ body {
 .idea-6 span,
 .wish-hbd span {
   display: inline-block;
+  margin-right: 8px; /* Space between words */
+  font-size: 14px; /* Smaller text */
+  color: #ff69b4; /* Cute pink */
 }
 
 .idea-6 span {
@@ -127,7 +130,6 @@ body {
   width: 80px;
   top: -35px;
   left: 41.5%;
-  /* transform: scale(0.1); */
 }
 
 .baloons img {
@@ -214,7 +216,7 @@ body {
 .wish-hbd {
   font-size: 3em;
   margin: 0;
-  /* text-transform: uppercase; */
+  word-spacing: 12px; /* Increased spacing between words */
 }
 
 .wish h5 {
