@@ -1,28 +1,35 @@
-<h1 align="center">
-    Valentine's Wish
-</h1>
+# 💖 Valentine Wish 🎉
+A beautiful and interactive web-based Valentine's Day wish, designed to surprise your loved ones! This project features animations, custom messages, and an elegant design.
 
-[![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
+## ✨ Features
+- 🎨 Cute and aesthetic UI
+- 🎶 Background music
+- 🎈 Floating balloons and animations
+- 💌 Customizable text and images
 
+## 🚀 Live Demo
+Check out the live version: [Click Here](#)
 
-#### [See it Live](https://govindcodes.github.io/ValentineWish/)
+## 📸 Screenshots
+![Preview](img/vector.jpg)
 
-## Make your own version :computer:
+## 🛠️ Installation & Usage
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/maliaistrying/valentines.git
+   ```
+2. **Navigate to the project directory**
+   ```bash
+   cd valentines
+   ```
+3. **Open `index.html` in your browser**
 
-:camera::camera::camera::camera::camera::camera::camera:
-*Start with Smile*:smile::smile:
+## 🎨 Customization
+Modify `customize.json` to change messages, colors, and images.
 
-* Fork the repository
-* Open `customize.json` and replace name/wish-message/image with your own
-* Turn on GitHub pages for the repository (Settings > GitHub Pages)
-* Send the URL that you get at the above step to your friend
+## 📜 License
+This project is open-source and available under the MIT License.
 
+---
+Made with 💖 by [maliaistrying](https://github.com/maliaistrying)
 
-## Contributing
-
-If you have any idea to make it more interesting, feel free to send a PR, or create an issue for a feature request.
-
-Stay happy and keep the people you care about happy. :)
-
-#### OwnerShip
- The animations used in the Repository is created by Afiur Rahman Fahim(faahim).:smile:
